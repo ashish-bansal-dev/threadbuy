@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@medusajs/framework": "2.17.2",
-    "@medusajs/medusa": "2.17.2",
+    "@medusajs/medusa": "2.18.0",
     "@mercurjs/dashboard-shared": "2.2.1",
     "@mercurjs/dashboard-sdk": "2.2.1",
     "@medusajs/ui": "4.1.19",
